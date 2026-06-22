@@ -1,5 +1,6 @@
-﻿{
+{
   "apiBaseUrl": "https://maxclicker-admin.maxiecake-crypto.workers.dev",
   "uploadPath": "/api/client-report",
-  "configVersion": 1
+  "configVersion": 1,
+  "signature": "MDqotLGuJxeOBpGAZQ1UCMnahNI4YHwZIDjxo9qxUqp9ES9Q8o2J99R2Uuu+5qk+VsgZ3b+nSHuYr0pNw99l5SINvyFzoEb+J++Wmy8UxmMBnPxYwLdclb6DfIjmldJ/t1oIBeFq5ccwCZAenJfZzU5KOFQS5HPa2/iE/H1SB0DysrvxsYyGMPBkRGj7ulZ3W1SUcfhomiMDtaR/KbvRzGABW8NcxlHMzl/rOxym7t7ItWn446U8vWrzo4ObjTxe6nonJM/yCl88J71bafY4ycss/BFFmFcGY9R+mkbNq2vo9o90WzQlmlUjXAgDk89l1irWtBxjL2ADjMQGiT4zOg=="
 }
