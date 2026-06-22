@@ -1,6 +1,9 @@
 {
-  "apiBaseUrl": "https://maxclicker-admin.maxiecake-crypto.workers.dev",
-  "uploadPath": "/api/client-report",
-  "configVersion": 1,
-  "signature": "MDqotLGuJxeOBpGAZQ1UCMnahNI4YHwZIDjxo9qxUqp9ES9Q8o2J99R2Uuu+5qk+VsgZ3b+nSHuYr0pNw99l5SINvyFzoEb+J++Wmy8UxmMBnPxYwLdclb6DfIjmldJ/t1oIBeFq5ccwCZAenJfZzU5KOFQS5HPa2/iE/H1SB0DysrvxsYyGMPBkRGj7ulZ3W1SUcfhomiMDtaR/KbvRzGABW8NcxlHMzl/rOxym7t7ItWn446U8vWrzo4ObjTxe6nonJM/yCl88J71bafY4ycss/BFFmFcGY9R+mkbNq2vo9o90WzQlmlUjXAgDk89l1irWtBxjL2ADjMQGiT4zOg=="
+    "apiBaseUrl":  "https://maxclicker-admin.maxiecake-crypto.workers.dev",
+    "uploadPath":  "/api/client-report",
+    "configVersion":  1,
+    "latestVersion":  "1.0.1",
+    "downloadPageUrl":  "https://crossgozon.github.io/maxclicker-download/",
+    "downloadUrl":  "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/Maxclicker.1.0.1.zip",
+    "signature":  "qkupK2OhHHxCas3kq5sc9Bhr6fM9H7xVVcDGpahyp2eu5UZOgq0dbxRLO1/IB9EsNdnWrmYagK2QIaMY7+XtbbHzY46F8fs+Em0lLmT0qxJSb5IrNb4z4IICNzw+TQfUv3KHZ8grHs1ossZ5AZ54e8r18/ZB5/KrbEUyEMw4F+FNSmvuGXUMAbu67BaIKeAtaNfA8fcooAr4tYhGs4ZmVnBC5gJOaopKJaZ813GOaO3Gy0XepP84AoqHp1HW/QByJaK5Kh2XO7Dw0MyWrZmLwlFd3HnPZzJAXjkc7JugCpXC7YwOIt+2z/eOqf16i8cmFslkoSVMTwut4QSEShTImQ=="
 }
