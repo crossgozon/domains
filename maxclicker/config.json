@@ -1,0 +1,5 @@
+﻿{
+  "apiBaseUrl": "https://maxclicker-admin.maxiecake-crypto.workers.dev",
+  "uploadPath": "/api/client-report",
+  "configVersion": 1
+}
