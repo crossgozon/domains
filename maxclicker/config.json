@@ -1,9 +1,9 @@
 {
-    "apiBaseUrl":  "https://api.maxie-apps.online",
+    "apiBaseUrl":  "https://api-broken.maxie-apps.online",
     "uploadPath":  "/api/client-report",
     "configVersion":  1,
     "latestVersion":  "1.0.1",
     "downloadPageUrl":  "https://crossgozon.github.io/maxclicker-download/",
     "downloadUrl":  "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/Maxclicker.1.0.1.zip",
-    "signature":  "t13U5tdJ7EP0u/NzTVdBXLAmb/VEkYgzdLl9ueRSVPmvKE9L2zSLFtsE10TO8T7US0UT+MDO1Xz+8fe+SjddbdM1b/OCv0tv5W2xZVFtkBOiy35WiDdvciG6GtyxmzVKfNZ1vMJUxcF0l3+mnrNDPaWAwmgqRAhSHusRjE5qv6OHtCE59JkyPhx38OAhNjL9n+CvSEciEqP5tc68Ygmgrho6WrfuYaTgtm1lveCMuo9uSMgRCo9HYESk5fBVmoyT2NCbU6C2QKcJStoWumX2OFWN0KhBs1GynSdUZHbZj+++5eJ6DVwf4q9OtDMt1jmfkUMKgTxrx13nnYpsuhfRkA=="
+    "signature":  "Y9g2UaK5LFJ0p9mlMJVy0kpV+Sr0zx4QMQOGZRLQy02vgc1RuUj6hMTZnfsKI6DDexPe/rJ89Jjmreu68o+awUfX6ESbRwAP96IAPLAcckw/N0YsJ2iP3eX7pZukG0AenmkKblqFuWBeEi5NzDA8t3NQvPcGviNyrHw3d3RfVewgJXtSsa9q7cD9kXHegM8pjiU+0oaRgApFD9ErcvNU6pM4peYioUPRCbcCFpNBlWW/TvnkQglA69MPjLhbbDf025OI1tdthwlfVBmtbowxykORpAx6WKFc0kfdCF+90tx3eFOofaM9DVs/fSq6V1e3SUKvgjrb72h0hUhuysEtLw=="
 }
