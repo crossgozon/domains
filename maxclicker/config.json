@@ -5,5 +5,10 @@
   "latestVersion": "1.0.1",
   "downloadPageUrl": "https://mxcdownload.maxie-apps.online/",
   "downloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/Maxclicker.1.0.1.zip",
-  "signature": "tQbNgr0MVrwT2sfx4dd9v+PEBk4sKoEVda8rS/hWtcp4UFksRZ7JXFYyuVkBfgBftgOxkDaEbavnmXgeIzPI+Ucb2EHMyS8p71fV6ICDQVttSR6NGXWrS+ckUVDNVMPxTA1PTFRg8Yj1NK5wYTudCSoVDC/tGEClW2I/pu+o/gCj/T48QxMr760zu1FjbmJLvRucyXi5a/7HhKLsbn6D9CwbGWDOiubZlE5cOcaQ3OR9c1JXmsS6/skHSeatn3zXnDBUaZoS8usMIZKs6BuHTC0hbshb0O5/ZT4zZY4WJD5MoU12w1VJKx02Ws39j9dvNmmWZQHZHTa0lsWpcxQ8fw=="
+  "releaseHashes": {
+    "1.0.1": {
+      "exeSha256": "6dd25885828af9d929924cfc8cc9c725145389dfe255c5ec1eeb6657f8e49882"
+    }
+  },
+  "signature": "SnRmvEMXv6so2bp/h1iwNoGyYIqECEb1jWSw+0kKD87lc8a2Wrlms0kBdsPvRVff+o+CfpRVaKbzXF0zYtIj4Gwy13azgP92Ss27Xu4lo5q82wPJf+x/r//N7Ygegcwuq7+dnmiIdP9wb+ZjabJlGNt1/NLT2+6XgvkaLitQlUVp41FzLVvkRAK2LIVx7kIMyh2yxOBwz3DK4b3E9bwHArhoy8rJ5MtV8fjCy+9DLrkejdAEb+YDV+maE8/NEAVWEGpoNcU5GdVrCSIRVV3HPoCKHYOICdCJkVs42V6D2mo9ycNJ7JjpDtun+OVRC08bMms3W1Gpz4q4b7G3epmtVQ=="
 }
