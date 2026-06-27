@@ -7,9 +7,9 @@
   "downloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/Maxclicker.1.0.1.zip",
   "releaseHashes": {
     "1.0.1": {
-      "exeSha256": "565936346a49603786b952a84f7de27072993b07f7b1a69a0eda35e1f25c58ea",
-      "zipSha256": "2134ce83d659c900385e042a0102c39822cb89b42aecc6ddfa7c5456746f1aac"
+      "exeSha256": "7dc983442ad54b3e04b4d8e3721988347f6451db995b6bdfdfa2888839706a79",
+      "zipSha256": "a8ef9c23302d8dfdd2a8b8297e6502de069ee43cd721dd41a00356e6fd464c0f"
     }
   },
-  "signature": "c8oVxKEpsOB+OeH7eOBWpSDwH72F2LQwr6BvvxAEKSNF8Bs+5FS/03vY79n9jtq1I+lQOm0Py0/sy7h1ikJJtNsx9x6Z3GDOGISVVROxcsxXpNKspsIEgP0rS7ZgP3J+TuNPr0sbRNCJl0mbSUrcNTBk+ZCmVyHQq9vX28oGOYeNr26shGlfGg/o2C3g6ju1qrD0dfsGH1zGJxewdRnRk5pIXeXzi793sKXRYT1wW5lpLvW9CTY3xWEmqnlwEHE7xvWcAHodpp0O3BRdqN0ufT4+X2ii1eGKynmCOa2nZIZLgzsT4aXeypmaWBJ0smn7wbgvVV1NQE6X1dSbPTaQXw=="
+  "signature": "LrHIu2myB10DtR3iu6hYEBNfBDg9MEq5WcsXAOCKy+DK2KblZluWm8Wt5Lnq8MjLC/ki/piCnSWamZC9BYg8OToY96A0f/oTDp5EM7umyw6JXseNpYVEFsU2tz/y/9quBsI01oqTv6Ru45mMEB4nKMt1PPgYNu5pZimAjWr7LrKAZQMuoMpV1kPkW2vs7T3zcMwnJIz1UgulPUCOYF9bUdAZgwm1cVdYHCwvxPMGCsyvbL4TcHZiPFKWFXtMC6dg8/PodD4ANSCEsBal3+SNlCzGNpcCSMEfxlj5lNlBTUnSvgRPVx9ImoDMy+19j1SUe8vX2UzdkTYqY5GtCZW6fg=="
 }
