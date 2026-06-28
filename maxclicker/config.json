@@ -5,13 +5,15 @@
   "latestVersion": "1.0.1",
   "downloadPageUrl": "https://mxcdownload.maxie-apps.online/",
   "downloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/Maxclicker.1.0.1.zip",
+  "updaterDownloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/MaxclickerUpdater.1.0.1.zip",
   "releaseHashes": {
     "1.0.1": {
-      "exeSha256": "2c9cc12eb2647ff3ac5dcfae7a94d266e132184694a3e64d381c6c760b323f8d",
-      "zipSha256": "68363af404f620f673a6199eec71647f0474261444f1209d66d04e7b45e5b35e"
+      "exeSha256": "f637309bb41a810212ee712bf4610b46890aba86f5b02a9632b179a00990000d",
+      "zipSha256": "0ceda9f26d302c972394746b323f656202bed9beb5a7603cb7d9f17aa77ee5e9"
     }
   },
   "updaterSha256": "319537568ea058646e75b9088afd45a9adeda76d107e2f68cfac838cf7c56452",
+  "updaterZipSha256": "e788b36f642eb5fa8481e3f7e1bb124f2e0b732d2f374b0d74cfe44ff0c912d1",
   "downloadMirrors": [
     {
       "name": "Backblaze",
@@ -20,5 +22,21 @@
       "zipSha256": "68363af404f620f673a6199eec71647f0474261444f1209d66d04e7b45e5b35e"
     }
   ],
-  "signature": "pfeYMRRSsA4Wet+QKfL9sPvN7Wi5LNHIhk2xnzPwz3bVxk4Rt7P3poubTvlnpsmdAgvJ4AEFxGuv39PXhfAkqP4o+I29BM+ZhcuQdRa7oMfG13iiXqGPLfiGiVTLCZx5WOo1r+q76r00I+NwWq1djmkyKBQRcRkEbrDIjU8DdKcl8PBfCwD1fHy0W9ShHpzpTpCGBYMNfmso0/3e8sfjWKApuHkd6YdyTvQ/9AVAY+ZjaNU5Zi8stydEtF4735l+mymqoB5Ln7giSbRbRWrCk/0UV5AfAtMN6sjbRU2bpqIUtQ9xtDQK1GPHPRJo/AFWwguvprT6WUntMv91sg91Hg=="
+  "publicDownloadMirrors": [
+    {
+      "name": "Backblaze",
+      "url": "https://backblaze.maxie-apps.online/maxclicker/Release/1.0.1/Maxclicker.1.0.1.zip",
+      "version": "1.0.1",
+      "zipSha256": "0ceda9f26d302c972394746b323f656202bed9beb5a7603cb7d9f17aa77ee5e9"
+    }
+  ],
+  "updaterDownloadMirrors": [
+    {
+      "name": "Backblaze",
+      "url": "https://backblaze.maxie-apps.online/maxclicker/Updater/1.0.1/MaxclickerUpdater.1.0.1.zip",
+      "version": "1.0.1",
+      "zipSha256": "e788b36f642eb5fa8481e3f7e1bb124f2e0b732d2f374b0d74cfe44ff0c912d1"
+    }
+  ],
+  "signature": "wBsggno2ktn2N2Iy4Ls+s8mylqy5edLcV61zFhqlmoztEwjqWv2W1m+Ovu8cBKPCzqMiyf5PYn0jDDncy+VzqHwuH57pTWddqKXbqL92zIUHrQlNjojIqhBkfBk5ktTUeyM/gMe2wL7nnkpYSIiUXUrw6Uo3ZbGLSpBa3/eRTMHYc12QILFpdPt3dDXqY/qVoI5MyD+ANpa4YgOuw+6hZYSPS+TQr03X4Sl1Mfu2Y3ZHHtOELRK9oLpFVxMmT55WyJbqjHkdEz0QGrvBD/aINRItEQv2/ndts0/K1KOv4Im0TUxqd758MdMvGWJOAckiSjp4QlYVg0kX/CmUfYc0eg=="
 }
