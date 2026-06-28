@@ -1,0 +1,17 @@
+# Local secrets
+.env
+*.env.local
+
+# Local backups and temp files
+*.log
+*.tmp
+tmp-*.txt
+/tmp-cookie.txt
+
+# Tool-generated/signing and local scripts
+*.cmd
+*.ps1
+
+# Release artifacts
+*.exe
+*.zip
