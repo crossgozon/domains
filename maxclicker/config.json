@@ -8,8 +8,8 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/MaxclickerUpdater.1.0.1.zip",
   "releaseHashes": {
     "1.0.1": {
-      "exeSha256": "540b5e517a2693fc887956c665d35e9f66bbd0e4e1427dfa3684eb0c8b3af0b6",
-      "zipSha256": "c1906d9d4312af2b9eab372d631c3de173bd6fe904b1d6577d838dfb9f0e8a94"
+      "exeSha256": "ee9c9666801a28468cbe023877606b8cc5e589d2f0cbbf2016f07da2fd31059e",
+      "zipSha256": "34c59eae4ae4cc3351e6bb3bbf81ac173ccf4eae1135c1cfe360d185643bf6f3"
     }
   },
   "updaterSha256": "b98b1fb8870886e96c3d38938613e95305593e23bdc698b15a58589a6b073d54",
@@ -19,7 +19,7 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxclicker/Release/1.0.1/Maxclicker.1.0.1.zip",
       "version": "1.0.1",
-      "zipSha256": "c1906d9d4312af2b9eab372d631c3de173bd6fe904b1d6577d838dfb9f0e8a94"
+      "zipSha256": "34c59eae4ae4cc3351e6bb3bbf81ac173ccf4eae1135c1cfe360d185643bf6f3"
     }
   ],
   "updaterDownloadMirrors": [
@@ -30,5 +30,5 @@
       "zipSha256": "48e4acecaffb2f0f6996ff20d0b7a1e3eeb3f8216ba652df30e096c17e027883"
     }
   ],
-  "signature": "TxcYda2cOCU6GqxBNutkSV+jxPtXSwghcACty1hbHoCGMpJ5F0q6IxPdl3UsK4ul8hfNGVBj7/qZc5ef9cglvOUvuDZjfDpn1WxRzVstFVeOl51mINntVJrXS/J9GnyIAGYZvqIT8nJbjhr/fO7cS8CtdNktvgvHdUgxJtuXHOe3nTCJbar3ujV1ZwNjH4GdrFFNUPqokldFBi0DkG+sG/mvuZkaQ+CoCzhXOC19h8XaCmgxidqtSUF4N0BqEUGgCypWI0nqCxqf5RJAOL6lT4Gwun+EoDP+USnCbKYXvttW+MbH42GPo3eaiKAN/obxmCgVEN2JH74GeYiYHNLpqg=="
+  "signature": "McwLg0a3davxP/2Z7RbtJw7NP5iHPLQXDzgSmZnO9ynrlVq5RD0NhntLfeYzw+29XC1jyo9/QNgFiLeBKcrVzD7gc7pbQdbhC8MvuDyYdqsjtGazaO1r5QYtFI7E9V45Jt97d42w/QDTWB+EgqsXc0xSfhZ6BT5R7Oaq681FQyRZ7Us/V/Lgm87Dj3TH66e1IyfeZ4/CydZaOCrXa7armx1SSnxbvfYHzs5+kpr45Lja2vdJQDYgyS6VLg3wKhs8CNh8wKrWava0ZDGhyMXrpnsosRhoO93SRlOD34j1oUdqlRMgnY+xw8yGOdTawjUn3bKiwq0CMZZryp2v3wYu8A=="
 }
