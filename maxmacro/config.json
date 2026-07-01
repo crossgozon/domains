@@ -10,11 +10,27 @@
   "downloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/Maxmacro.0.1.0-beta.zip",
   "releaseHashes": {
     "0.1.0-beta": {
-      "exeSha256": "360ced0f566c149cda97121921f013cf1c9977ce0a1dd49da7fa8faecaafa389",
-      "zipSha256": "b48712a2d9bec19e13d056a4af7d64a522a3d80ba076ddc6bad1a2295052afb0"
+      "exeSha256": "61934facd2d389bbf2347ed81b13252b56662de958b9560b4420429b8ed9a1e0",
+      "zipSha256": "cb53472e3ee80ac2976a19776ef58464107e434ce7142193223feb5747672cbc"
     }
   },
-  "updaterSha256": "319537568ea058646e75b9088afd45a9adeda76d107e2f68cfac838cf7c56452",
-  "updaterZipSha256": "e788b36f642eb5fa8481e3f7e1bb124f2e0b732d2f374b0d74cfe44ff0c912d1",
-  "signature": "cZMGNk6nA88tpuz18o6AmlMu96xPpORkjAHkqa3ukYF6IWzTG5Nohs176zSZhPcfTM3jCnKiN5UlbPe1O7a1O7K7gHl5mh56B0iNOP7PfZzfRuhLxmlnmTt9Erqyz2kNZtnRPCGLpyaMJkqeKdNu+RiA5RU1xbITZejYdSufhlPDC6CpJtcog+Sa7DGLTMGWNvziBUXkWr9YyDzLkYbm713ZEysxvdW4LPLiCzurL7S4O1fROyFOX0FklFuYbslrd5jVAqzT2ayke0AWHZT/hjvGjPL+bAWKKK6OvTeEHxoojIFNWgmZ/1UWkuJAGorrE05buYfl3iTWJ6ETD0Y4+Q=="
+  "updaterSha256": "782b41654b33753ceb311d646929a003a8bcfcd3b21ad2e370c76c1906062d3a",
+  "updaterZipSha256": "aaa8867ccb85b323a162fc5ddc0248265e6f8f86ad7c85d89314e328df3bd10b",
+  "publicDownloadMirrors": [
+    {
+      "name": "Backblaze",
+      "url": "https://backblaze.maxmacro.maxie-apps.online/maxmacro/Release/0.1.0-beta/Maxmacro.0.1.0-beta.zip",
+      "version": "0.1.0-beta",
+      "zipSha256": "cb53472e3ee80ac2976a19776ef58464107e434ce7142193223feb5747672cbc"
+    }
+  ],
+  "updaterDownloadMirrors": [
+    {
+      "name": "Backblaze",
+      "url": "https://backblaze.maxmacro.maxie-apps.online/maxmacro/Updater/0.1.0-beta/MaxmacroUpdater.0.1.0-beta.zip",
+      "version": "0.1.0-beta",
+      "zipSha256": "aaa8867ccb85b323a162fc5ddc0248265e6f8f86ad7c85d89314e328df3bd10b"
+    }
+  ],
+  "signature": "VqSFgyBpWVRCKh9xHvQwcipTs99aQD+m9d4vsomQw1q0gSovOYIFggl/YFv+8bmokv+eo9pRl066p/Rc+WoXZMVYGJ5Kq5YgXrlYh9eleX0K8jSJIBTvA+Ou6xsalu2bAQO3btjMWjZMZIwTtcvlOEUEIWVL82yyzikk7W9PEkvrt8W3a/pS3nq2kU90MMWHK9CZxoAVtiIUekArgNjVoS3oHCpulYuE59d80XtPlegSylcz9RMjD70eby+pg4YjG9hBaX/GhZ6ZA3ma4StiFws4lbGavFuii7ZjKRZllCrjAhYDo2ulQB1rqj111vR+YxJ9piTmAOxlsdsu3+R+nQ=="
 }
