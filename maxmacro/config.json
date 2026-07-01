@@ -1,0 +1,9 @@
+{
+    "apiBaseUrl":  "https://api.maxmacro.maxie-apps.online",
+    "uploadPath":  "/api/client-report",
+    "configVersion":  1,
+    "latestVersion":  "0.1.0-beta",
+    "downloadPageUrl":  "https://maxmacro.download.maxie-apps.online/",
+    "downloadUrl":  "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/Maxmacro.0.1.0-beta.zip",
+    "signature":  "sABJBI/QhCI6cCsPag0hf9uigkNQquWCB3tuvjhWpSuH7MOcW70ojf3zBY2iQXKV4dmCETloyUdgP4GO8RyxMVP9Mb9fK0VTb2LKxVho6axhFmn+OBvXfIhS4IUe4lpGEJaUbe9XBqxKY3+ZqgfBtIeHDPfUeN31qjGRqK3KmRjJwmnWWS0FJ64ApqWZaTbWnqMMtlsB+ux6tclDDBKjzzPZI6piMXUKpIRUMVNu52nRQi0NjRd198XHgH0b0W9iYbCX2+ytLhZizItBs/hkTriLjn6belKPrLbANabcF2czgXMB2E8iQ+WD9gR5xQPOOcTY4MQkJuFAwt8CMaYqsQ=="
+}
