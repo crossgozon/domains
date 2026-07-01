@@ -1,9 +1,20 @@
 {
-    "apiBaseUrl":  "https://api.maxmacro.maxie-apps.online",
-    "uploadPath":  "/api/client-report",
-    "configVersion":  1,
-    "latestVersion":  "0.1.0-beta",
-    "downloadPageUrl":  "https://maxmacro.download.maxie-apps.online/",
-    "downloadUrl":  "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/Maxmacro.0.1.0-beta.zip",
-    "signature":  "sABJBI/QhCI6cCsPag0hf9uigkNQquWCB3tuvjhWpSuH7MOcW70ojf3zBY2iQXKV4dmCETloyUdgP4GO8RyxMVP9Mb9fK0VTb2LKxVho6axhFmn+OBvXfIhS4IUe4lpGEJaUbe9XBqxKY3+ZqgfBtIeHDPfUeN31qjGRqK3KmRjJwmnWWS0FJ64ApqWZaTbWnqMMtlsB+ux6tclDDBKjzzPZI6piMXUKpIRUMVNu52nRQi0NjRd198XHgH0b0W9iYbCX2+ytLhZizItBs/hkTriLjn6belKPrLbANabcF2czgXMB2E8iQ+WD9gR5xQPOOcTY4MQkJuFAwt8CMaYqsQ=="
+  "appId": "maxmacro",
+  "appName": "Maxmacro",
+  "localStorageNamespace": "MXM",
+  "apiBaseUrl": "https://api.maxmacro.maxie-apps.online",
+  "uploadPath": "/api/client-report",
+  "configVersion": 1,
+  "latestVersion": "0.1.0-beta",
+  "downloadPageUrl": "https://maxmacro.download.maxie-apps.online/",
+  "downloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/Maxmacro.0.1.0-beta.zip",
+  "releaseHashes": {
+    "0.1.0-beta": {
+      "exeSha256": "360ced0f566c149cda97121921f013cf1c9977ce0a1dd49da7fa8faecaafa389",
+      "zipSha256": "b48712a2d9bec19e13d056a4af7d64a522a3d80ba076ddc6bad1a2295052afb0"
+    }
+  },
+  "updaterSha256": "319537568ea058646e75b9088afd45a9adeda76d107e2f68cfac838cf7c56452",
+  "updaterZipSha256": "e788b36f642eb5fa8481e3f7e1bb124f2e0b732d2f374b0d74cfe44ff0c912d1",
+  "signature": "cZMGNk6nA88tpuz18o6AmlMu96xPpORkjAHkqa3ukYF6IWzTG5Nohs176zSZhPcfTM3jCnKiN5UlbPe1O7a1O7K7gHl5mh56B0iNOP7PfZzfRuhLxmlnmTt9Erqyz2kNZtnRPCGLpyaMJkqeKdNu+RiA5RU1xbITZejYdSufhlPDC6CpJtcog+Sa7DGLTMGWNvziBUXkWr9YyDzLkYbm713ZEysxvdW4LPLiCzurL7S4O1fROyFOX0FklFuYbslrd5jVAqzT2ayke0AWHZT/hjvGjPL+bAWKKK6OvTeEHxoojIFNWgmZ/1UWkuJAGorrE05buYfl3iTWJ6ETD0Y4+Q=="
 }
