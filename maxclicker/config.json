@@ -1,4 +1,7 @@
 {
+  "appId": "maxclicker",
+  "appName": "Maxclicker",
+  "localStorageNamespace": "MXC",
   "apiBaseUrl": "https://api.maxie-apps.online",
   "uploadPath": "/api/client-report",
   "configVersion": 1,
@@ -8,18 +11,18 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/MaxclickerUpdater.1.0.1.zip",
   "releaseHashes": {
     "1.0.1": {
-      "exeSha256": "3cd850cc30eeba8232e552a290458499e74eeccfeca14a5888b5d223e7806238",
-      "zipSha256": "73b78b62c97dcd6e6c0c7e830df4cb61ac5f3e66812b5824dd295f31867f0b04"
+      "exeSha256": "23185cd6dcc8cfa8e162592ed100bede8bbd09ac603301036f65573ca788efd8",
+      "zipSha256": "b9891a992f9bb75fd2f5e2171865cae743e6507656abd92fccd534980996bf6d"
     }
   },
-  "updaterSha256": "b98b1fb8870886e96c3d38938613e95305593e23bdc698b15a58589a6b073d54",
-  "updaterZipSha256": "48e4acecaffb2f0f6996ff20d0b7a1e3eeb3f8216ba652df30e096c17e027883",
+  "updaterSha256": "319537568ea058646e75b9088afd45a9adeda76d107e2f68cfac838cf7c56452",
+  "updaterZipSha256": "e788b36f642eb5fa8481e3f7e1bb124f2e0b732d2f374b0d74cfe44ff0c912d1",
   "publicDownloadMirrors": [
     {
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxclicker/Release/1.0.1/Maxclicker.1.0.1.zip",
       "version": "1.0.1",
-      "zipSha256": "73b78b62c97dcd6e6c0c7e830df4cb61ac5f3e66812b5824dd295f31867f0b04"
+      "zipSha256": "b9891a992f9bb75fd2f5e2171865cae743e6507656abd92fccd534980996bf6d"
     }
   ],
   "updaterDownloadMirrors": [
@@ -27,8 +30,8 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxclicker/Updater/1.0.1/MaxclickerUpdater.1.0.1.zip",
       "version": "1.0.1",
-      "zipSha256": "48e4acecaffb2f0f6996ff20d0b7a1e3eeb3f8216ba652df30e096c17e027883"
+      "zipSha256": "e788b36f642eb5fa8481e3f7e1bb124f2e0b732d2f374b0d74cfe44ff0c912d1"
     }
   ],
-  "signature": "KLHFV7h7UlZcfzlps8EsPwVrnDt3agV1DkeQaJz8nqc9IseKTLh3fsYEbfb0mHhqWWTOpqiWlUyzIOKNOuxR8ZZgIMv51qrw/RlzGDCFQNTMkEkt8m2YWNtqNj+HiUH1oAwB/+8Oq+dqLo8owavaVxFXsxBZuUgEFrCxhF3r9bBQx3VV/TBwXorqcZtL9bV8vN30At7mwi6MSdCK3bX+A8dYkwOZbixvegN/fRuuGwyc4C+crGnJ3dS6QODDXLOTqn7AC2i/xHjKZ6kYUqcBwzCCby/M/uTD8ZKa1ljYz1iGh3PCRyyZdqW4m9/7AJvucJ/Ap0FZFzw+Mh8MKjtIeA=="
+  "signature": "fmjMggQW8nA3Rp1Wk7jT53oe1b3etG13Dy5kqF4T+FAUl4o5A/zaR9i2f83/M/gycjlT4BHYyAJCdgpBiW7i7IsiZ+pCwaADlQyer/xK79kcYFlBLwsa2EAGrQmauOmidh7EWHwjWu0XpZMkj6iXoqwCQLm7Dz5r3E5kFuHNdPcS7dckA3bwMKAXcMmSjNBsUN/sdFa/ezzttGBNIuXbKZ34MJCx2wVHeCAhUeH3dGzORze5qlbzOijG6YQcTgj4TKL6o6xqftWVsGFF18WULrxGUKJkFK2xFqeK4Q5wBYYsPcLXg9tKyHcZcboG8Kr2JdVTk1sjWHu/E1TzdNfa7g=="
 }
