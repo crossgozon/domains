@@ -11,18 +11,18 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/MaxclickerUpdater.1.0.1.zip",
   "releaseHashes": {
     "1.0.1": {
-      "exeSha256": "01c499aa17d8e6fe0c396ab1fe91cdb8f2a79b555eb43a6e49915920f132113a",
-      "zipSha256": "bd2a101490a7a25d7dbe2bf3bd291d3cfcb884f2cba47764102f1715972e37c9"
+      "exeSha256": "dbfe2d4ad5e9f0784108cdeec075db09b8c1446bcf37d4106907f7be15b15af2",
+      "zipSha256": "c4497391deb3d3f38a24c439c1dfb28410b5de440df169ac9bdd2a8731eb8175"
     }
   },
-  "updaterSha256": "782b41654b33753ceb311d646929a003a8bcfcd3b21ad2e370c76c1906062d3a",
-  "updaterZipSha256": "35262d8c2d6e28ce80677082c68a6958478b5e218e538876bcf4a5f153b621b3",
+  "updaterSha256": "b0fd10cd7312bb2795da7147b40242293d0f80a08e093fd75deb1b69a0eeda5f",
+  "updaterZipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c",
   "publicDownloadMirrors": [
     {
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxclicker/Release/1.0.1/Maxclicker.1.0.1.zip",
       "version": "1.0.1",
-      "zipSha256": "bd2a101490a7a25d7dbe2bf3bd291d3cfcb884f2cba47764102f1715972e37c9"
+      "zipSha256": "c4497391deb3d3f38a24c439c1dfb28410b5de440df169ac9bdd2a8731eb8175"
     }
   ],
   "updaterDownloadMirrors": [
@@ -30,8 +30,8 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxclicker/Updater/1.0.1/MaxclickerUpdater.1.0.1.zip",
       "version": "1.0.1",
-      "zipSha256": "35262d8c2d6e28ce80677082c68a6958478b5e218e538876bcf4a5f153b621b3"
+      "zipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c"
     }
   ],
-  "signature": "Wf6VAkxjSsyKUbYRO6vCH7X3PIriM6CASPdGXtWUvekrt8+ukJV3FC35AqzqDtu/s//OKjSyxeErvVHjnsgEEo4xJj1RO/nvKB8r5S0PRf1vgCN/rVB5yoyGsvpKCBlwZxNGnHaXT18Q4+li85bD0Q69RvVKRw98twX1pPb1Yfev4ACLgMKKZZ5rE04XlpSoLC5+qquiWhuMUdzSxi+HRf4zHpMpYaYGPaLpB4tB6w32HoncIDIEu4Wp+Jc4W0Gt5nqL7L86yrdNd92FfNNBkJ0mBgjva0JoeI3dhfdJbq5Yy5iwdFsz2BmLZdne6zrJMPgV7ewBWV/EGJj9ji5RjA=="
+  "signature": "Zd0fy8ROYrPqXomQZR3mFkvtydpohYeHXMPcGcEtAp0wYT+IXeEYj9VP3M/KPsW/VLMicHXzBwJ7zXRyE3SxF+0zZYU5vATIgEGkyKthTvOwqD5hnuPmzmminRpPX2jvSlpoXgatJ2pv9g2BIZBkSxFM8ZCCyAKsRwa63qJJ87DmrKM2uP067ZLvMOegXF+J0pi1h0QhZzRtGiLGtQ3eO1/Caj5TNWqF9zXN9/xLe3WKpcMGAanPpqG2VeFP04rsLeBwy1ww4LMeRsezwmp+SbWTHcDVIv5FtL+smmKOQkPe5ArrSlYuEog2g8MPyazFPdOCPvrjLRryiBMipH9+Tw=="
 }
