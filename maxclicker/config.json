@@ -11,18 +11,18 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/MaxclickerUpdater.1.0.1.zip",
   "releaseHashes": {
     "1.0.1": {
-      "exeSha256": "dbfe2d4ad5e9f0784108cdeec075db09b8c1446bcf37d4106907f7be15b15af2",
-      "zipSha256": "c4497391deb3d3f38a24c439c1dfb28410b5de440df169ac9bdd2a8731eb8175"
+      "exeSha256": "3cff8435a2f698eb8169257000135ce197e43d27312b0a16299abf74a0d67e4f",
+      "zipSha256": "945688285e494eac235c8fc46aa4534012c0db99fd70828b8d0e2ebcfe4eedf8"
     }
   },
   "updaterSha256": "b0fd10cd7312bb2795da7147b40242293d0f80a08e093fd75deb1b69a0eeda5f",
-  "updaterZipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c",
+  "updaterZipSha256": "a9119664d7acc873743155b0f981e4e1d79d546915856f5e5b32057a2b06c961",
   "publicDownloadMirrors": [
     {
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxclicker/Release/1.0.1/Maxclicker.1.0.1.zip",
       "version": "1.0.1",
-      "zipSha256": "c4497391deb3d3f38a24c439c1dfb28410b5de440df169ac9bdd2a8731eb8175"
+      "zipSha256": "945688285e494eac235c8fc46aa4534012c0db99fd70828b8d0e2ebcfe4eedf8"
     }
   ],
   "updaterDownloadMirrors": [
@@ -30,8 +30,8 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxclicker/Updater/1.0.1/MaxclickerUpdater.1.0.1.zip",
       "version": "1.0.1",
-      "zipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c"
+      "zipSha256": "a9119664d7acc873743155b0f981e4e1d79d546915856f5e5b32057a2b06c961"
     }
   ],
-  "signature": "Zd0fy8ROYrPqXomQZR3mFkvtydpohYeHXMPcGcEtAp0wYT+IXeEYj9VP3M/KPsW/VLMicHXzBwJ7zXRyE3SxF+0zZYU5vATIgEGkyKthTvOwqD5hnuPmzmminRpPX2jvSlpoXgatJ2pv9g2BIZBkSxFM8ZCCyAKsRwa63qJJ87DmrKM2uP067ZLvMOegXF+J0pi1h0QhZzRtGiLGtQ3eO1/Caj5TNWqF9zXN9/xLe3WKpcMGAanPpqG2VeFP04rsLeBwy1ww4LMeRsezwmp+SbWTHcDVIv5FtL+smmKOQkPe5ArrSlYuEog2g8MPyazFPdOCPvrjLRryiBMipH9+Tw=="
+  "signature": "tvFbj3VIiIT2S/5yL5o21Vme04z42hKQTuLV8frETk6nrPznIOB6A1ipoir+bjS8dy9/NNGT0OVNB3KOvsWBzTJPziJ/0bUn3lytp+Dic/o8Cbgx1EXWLgQcrNozw9rjfk4ZMElRL6wl3gdXPgQrKurlMSYx4skYjblFP9XwAgr1Oe0wVXpFREyNlK1n1LGkvS92R43AEkJ7G+p/jJlMg20uwZ0eO55Rh9cdlmY64cDfyyJAyOi+q5FlO1RDCGnZfs6DPSRp08Jo3exC1DaeDOsjvXyDwQppSYV+dX4tbuuMeH1F2glBu4TFRdaXQs00y0rsqKDGDZg+A//a+5PI8w=="
 }
