@@ -11,8 +11,16 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/MaxmacroUpdater.0.1.0-beta.zip",
   "releaseHashes": {
     "0.1.0-beta": {
-      "exeSha256": "b45077293bdbe94fe919551e5f1f2b639be1c57b5d2bc40d29fa9b393feb1305",
-      "zipSha256": "76b63735af6a5e38d140cc82bfa6391a1a8c1a987153a064544a2095eaa6541f"
+      "exeSha256": "8577cab09952be61d6c6d17e007ad1a1f71ee81ad9a610e7ab929fd645bb11ba",
+      "zipSha256": "3083d00955ef7c364c1231244d1c18d7914ce4fae4679af24ac645d6c741ffd5",
+      "files": {
+        "Mxm.Contracts.dll": {
+          "sha256": "c97ad6baf7ac771a858c525caf81a3e668e635607a27ca324696f7c9681784cd"
+        },
+        "Mxm.Engine.dll": {
+          "sha256": "3b74aba00404aa27c08ad55216b26abe41659ce2f95121a628c5077f93b5208f"
+        }
+      }
     }
   },
   "updaterSha256": "b0fd10cd7312bb2795da7147b40242293d0f80a08e093fd75deb1b69a0eeda5f",
@@ -22,7 +30,7 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxmacro.maxie-apps.online/maxmacro/Release/0.1.0-beta/Maxmacro.0.1.0-beta.zip",
       "version": "0.1.0-beta",
-      "zipSha256": "76b63735af6a5e38d140cc82bfa6391a1a8c1a987153a064544a2095eaa6541f"
+      "zipSha256": "3083d00955ef7c364c1231244d1c18d7914ce4fae4679af24ac645d6c741ffd5"
     }
   ],
   "updaterDownloadMirrors": [
@@ -33,5 +41,5 @@
       "zipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c"
     }
   ],
-  "signature": "rhkcXba/Ie9y3365f4EGEm1uBwshVPTLOYGDvjPIzlf0Q7jZF5YOLFySdxh77QBqdVTYUzO457DMxsuXd8gECRXVXHx63DhCpkUsUoSdgZfjZQB6M21GhyBpyZMHLgqop6XpZrkAWVkqZIWPWt6r+MjYjPdRVou7+agKX7JH3r7rO0+EW1UE/L7uN4ZFmXlC7yuIfz7pcZo5qxKnHNNGF/mXM3IAxRhR/DtNCcJXM4RPSXpTHcWtIAoxoweLFMLeiCUkk0hQCOrLiknjPi24IeRJhyBXL/AkCZvBt1bptmgVRYBZ1BXSyJ9H8UmJEkOWVPA3/3SgPyxkxgb5n88Z7g=="
+  "signature": "fjY9Auc3dizjnNX5UZrnCZDer0mx+h8bEQ9LvwDHUNKa8iTL+Rq/Hiu2c2rxS2B4NIOxPav4HtK6KAvlnnvtT7wO7RuqrOC2fkPAZ7WnwyUZYaNqxZuB+o1fRXDo9fJSWaMg4FGMaAKWnlIn4aerWw0uBBZM2qXO+9Ucjr4zm1er3cdQa+Nu5ziwaA7RcpV6/TD4iXug7jIX6QmIb83FzM+BtbvpD5EBbes3c5o/96toP88MJF1L69EVwy/Lou7BTUtIjeP+hgSwAO6muIOSrOWrYlUA8qlTuXZB3GYE/Hs8G8kecle/g2JeMc9qM1f2w+b0H99c+pf3QNMN/llZpg=="
 }
