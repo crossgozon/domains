@@ -11,8 +11,8 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/MaxmacroUpdater.0.1.0-beta.zip",
   "releaseHashes": {
     "0.1.0-beta": {
-      "exeSha256": "965dd8a8e77b32edeb605af2cd077b7fa589d599b2abeb35e0efc10e9418778a",
-      "zipSha256": "bdde38664ba00b4fb700753d0b92f241721ef767b0d810ed9b6bd25acd8b0d73"
+      "exeSha256": "b45077293bdbe94fe919551e5f1f2b639be1c57b5d2bc40d29fa9b393feb1305",
+      "zipSha256": "76b63735af6a5e38d140cc82bfa6391a1a8c1a987153a064544a2095eaa6541f"
     }
   },
   "updaterSha256": "b0fd10cd7312bb2795da7147b40242293d0f80a08e093fd75deb1b69a0eeda5f",
@@ -22,7 +22,7 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxmacro.maxie-apps.online/maxmacro/Release/0.1.0-beta/Maxmacro.0.1.0-beta.zip",
       "version": "0.1.0-beta",
-      "zipSha256": "bdde38664ba00b4fb700753d0b92f241721ef767b0d810ed9b6bd25acd8b0d73"
+      "zipSha256": "76b63735af6a5e38d140cc82bfa6391a1a8c1a987153a064544a2095eaa6541f"
     }
   ],
   "updaterDownloadMirrors": [
@@ -33,5 +33,5 @@
       "zipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c"
     }
   ],
-  "signature": "vDJyJrFoNRxdgSxDzHrrAuRA8w0OCd7B4K8eNVQR4m11Y5sjmfiQR0a/G/TvtvgpBNoBYxGbKwfXoQTPu5tLeJToiajMb6xOGsAZd1nRL870dLDEqPAeYVFJDzjKAb6VsSfpRV/OBYXJ+KDt+d6uM9ur8wfl5SFm7LeVKultAEgghXuVmADxvOEt0ze2+guj35+L7elKDrP/9d+VMxKcXgN1mt931NyVoyWU/JBUyoxoG7toED1NOtx0VME7tddZuJAvZ/Ngrjrtyjrcu8VQ8IlT5yfx55MDzFL664aP4Hvr9rDIuZx6WMIRzmbsjUTh3IVwN3dHb7IjN/WIAXKLOg=="
+  "signature": "rhkcXba/Ie9y3365f4EGEm1uBwshVPTLOYGDvjPIzlf0Q7jZF5YOLFySdxh77QBqdVTYUzO457DMxsuXd8gECRXVXHx63DhCpkUsUoSdgZfjZQB6M21GhyBpyZMHLgqop6XpZrkAWVkqZIWPWt6r+MjYjPdRVou7+agKX7JH3r7rO0+EW1UE/L7uN4ZFmXlC7yuIfz7pcZo5qxKnHNNGF/mXM3IAxRhR/DtNCcJXM4RPSXpTHcWtIAoxoweLFMLeiCUkk0hQCOrLiknjPi24IeRJhyBXL/AkCZvBt1bptmgVRYBZ1BXSyJ9H8UmJEkOWVPA3/3SgPyxkxgb5n88Z7g=="
 }
