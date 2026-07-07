@@ -11,20 +11,20 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/MaxmacroUpdater.0.1.0-beta.zip",
   "releaseHashes": {
     "0.1.0-beta": {
-      "exeSha256": "f9d28ecf4623459be7f70fa28b5106c9efdd9de5ab345ea23412a682035f1c3f",
-      "zipSha256": "02174471f96a4fde6011f7d5ac2019705087875bab4a74809d02722c1f900bbb",
+      "exeSha256": "b1417d0b16bbd3ed98b35f54e1263cae68284d573b5d8ada446cf3141ede240e",
+      "zipSha256": "96a7e3e654b0b13af31e5a873a3c139b63047e0aef696b25fa005b5dbab7cfb9",
       "files": {
         "Mxm.Contracts.dll": {
-          "sha256": "8dddd063648642fdb90ad8b3c212acef77230aba27db0a17a04218be85e1919e"
+          "sha256": "0a612165e2ad81ba7edb18f4a7bdc3e8b1c5d0557d48bd69eec7cca61cdb9807"
         },
         "Mxm.Engine.dll": {
-          "sha256": "3a43baea0c46606fde042323c5cf3da5f2d2b3dbd05d5a02350792551d9fc655"
+          "sha256": "02d43c4ea717a5fe091e8eaa06f5970c071ef2402ea27fa16ec195e7388de8dc"
         },
         "Mxm.KeySurface.dll": {
-          "sha256": "81309067e888ba33c84b13c0408133661f2e0d2a7fa9835001806b57f367ea2c"
+          "sha256": "cc11314b0d7b773dbab07dcf98cd1d0e3d78fc4fe70a64398f8b647e70b2e056"
         },
         "Mxm.Security.dll": {
-          "sha256": "d8851d1ae943a1501d1b2f624c0d206b210f9858a0e19d437fd716d576a59c16"
+          "sha256": "23411c56c25d03b8bd53d881fe4a685b1646439f45b2f431c62562dde945a7d9"
         }
       }
     }
@@ -36,7 +36,7 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxmacro.maxie-apps.online/maxmacro/Release/0.1.0-beta/Maxmacro.0.1.0-beta.zip",
       "version": "0.1.0-beta",
-      "zipSha256": "02174471f96a4fde6011f7d5ac2019705087875bab4a74809d02722c1f900bbb"
+      "zipSha256": "96a7e3e654b0b13af31e5a873a3c139b63047e0aef696b25fa005b5dbab7cfb9"
     }
   ],
   "updaterDownloadMirrors": [
@@ -47,5 +47,5 @@
       "zipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c"
     }
   ],
-  "signature": "FnRgCKRBa8hA38vHNwuGr4ycebFYM+egCI/axh6hTTbEZOjbhup0E1m2C2+QdP/abcXX3eaTkhrxKPzhb6lzaB8I105KGXRP2HkE2ffIhGd58iE6Yj3Zee7s7LZYX75NT6SKxw14XV5D92K7/0EnDukw13/AjvSkQ7RVkdue++ClBba3Ftc2pc2VwCYnKIscmnFEGoDSk99/iw9/xOHyPKWJvllIWIBNhvEEwRYCq4uSBNWhR6aEtlAFvABOuR2EBKX+Xw3RUb0xA9kQvdm1LCMa6JDrl63JDgPeO7+0nZSfV1OjrJwfKcAL3nbmPs1sZutmXH3ZIGBcelNB5dupyw=="
+  "signature": "YE2y/aFqA13+jPd4snMSaioI8fOsp8BYKDkyiQ6hWpL2/zuWjkwk8of8fdkar6AztsbsQKMJKyDsNDeU6EEk6ujLqyYM1w2ah2EgTK/swHSYn8GKaOAYPTVGk/+MwmkA4veDit75YEG46GtyHxapwLA6Q6q1JEiC3MfsbUU4gWXFbA7nMeHbiDmNRm2/yHrUjv7sxVyUFe674tjZ7les8u945dUGt2LLDe3XPiWqUCK96lM4NRanZqSVhsPUkogH3l8fwBLeft8xtzqKo2Y/PpxFXTEvGE35xVxx6/umIXu9j/D9e6jemSHoEGP8DyyO34G0KyhThREgKC4YbMCeww=="
 }
