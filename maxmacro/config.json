@@ -11,23 +11,23 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v0.1.0-beta/MaxmacroUpdater.0.1.0-beta.zip",
   "releaseHashes": {
     "0.1.0-beta": {
-      "exeSha256": "a2401a77f54e9e333450dcf648ae314c5d84439de4f89b60caad4feae65d8065",
-      "zipSha256": "8e4a1548974f8832ec2024d47e1d706cb9818abf43cca348e6331ffcbbd04eb6",
+      "exeSha256": "5ab887f5982d6ec5bf0a1e16e2a5f892776a870c4d35b8b9cdac3c33b920852f",
+      "zipSha256": "246b0f0f3002cbc337ef77d22d85557cd716429a00e6fe53f270f7b226bd52d1",
       "files": {
         "Mxm.Contracts.dll": {
-          "sha256": "53d564ef1afffc5427d41d5a4391d6a58252808d8f7879b2f568806472d330a1"
+          "sha256": "aa0213fef58187ef1dfb8bbe989564e5faee1553d1d2b085149c38ecc2cb0b0e"
         },
         "Mxm.CorePack.dll": {
-          "sha256": "3253a7ce528fe613b4473d8575cb4d720115dd7da5bfce1fa9d43a4ed3b4a3a1"
+          "sha256": "a5332d0f97f281d425b1f9f4cb43b2fb238b7ab8a37e3baa4335139efbe7a64f"
         },
         "Mxm.Engine.dll": {
-          "sha256": "b5a17bac325f7466ba2b2a9ccacf694a2b9455ae67a7bf54c510c76eb3ee8125"
+          "sha256": "fc6c6379ff69e205eee581f1eb59ce874006f347322a5d03c68055759f2e78a6"
         },
         "Mxm.KeySurface.dll": {
-          "sha256": "27bacdd3f9f7810054409693a369cfa452bcb815924ed00a684eb25e15875f96"
+          "sha256": "7e428b6efc61d330fe646fbba2a62a9195cccf177a9ec1f26bac5e6181dec518"
         },
         "Mxm.Security.dll": {
-          "sha256": "b8cd097ec709f5792203f00746e5ac3f81a22eed9761a04bdf5d9af6a7e6941d"
+          "sha256": "25526d6246573da3f8f1977a3e7b8efa000fb0eb92b77e50d2afb5264c3f2c18"
         }
       }
     }
@@ -39,7 +39,7 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxmacro.maxie-apps.online/maxmacro/Release/0.1.0-beta/Maxmacro.0.1.0-beta.zip",
       "version": "0.1.0-beta",
-      "zipSha256": "8e4a1548974f8832ec2024d47e1d706cb9818abf43cca348e6331ffcbbd04eb6"
+      "zipSha256": "246b0f0f3002cbc337ef77d22d85557cd716429a00e6fe53f270f7b226bd52d1"
     }
   ],
   "updaterDownloadMirrors": [
@@ -50,5 +50,5 @@
       "zipSha256": "c0022720c6437a81456be16c8932de83d432b4b40f5c4a12bde3178cc8f1f38c"
     }
   ],
-  "signature": "g+CQq5EVXWH0GculLWdm+DJ3tPuYUHhF6dTrRUtLnMM7E6c//kIs+8+ttvdJAWYLwdmRdiwuDuD387rjJnXUIlbvltySEaG2ZQHpPdo1ubnzpNpnGgI/whYw4zWc5GWfffdR2FGInWGTH+LsfCUCy6G20tb2VomYsQVEFnBvCvqglvvkz9+93JjLwWKH7N9sz3Or4C//jcdhoexAIH1qauGDYp4QpbzYIicxeHeAH1fP482hIHqT0vbqc/DAA4dAYNxIxHNNLNjnqMr8+st5B2nZFKtu7vcnPl9ah8Zk/HDFk0RRxHR7CyqS45VEfqSC1+OmKf0ZRwpaVnCs5KHJFQ=="
+  "signature": "DZuU6f85buw26n//2mx26OjZKYYA5EIVn6HVeeyBf96FeMDcVwvmBYBq/njb7A3Jcbr8UVi9pZ/6ITjH9d1M4ztKhgD861jj0fqiJCcGvN20pTKWNGdqhnqChb3R0SmfEOvL9AFhEWvbKOZTwOzGua0QCh8btKqOnA59wMa5m4mTGXCC023r09WgZ8CE/jkUehmTlr++r6yBbGqRkDV88z/rbmcPVX7vp2EJdbAVQNhD608f5NoolS1I8znGspg78Dg5uQew/vZDUyPkLjryHRKyNvDwDqbTUJEHt50wHf00mejAaZUc9FDUYls2P2V4Iq9Va70XLUcBiURDRnSLqw=="
 }
