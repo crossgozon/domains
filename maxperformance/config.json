@@ -1,1 +1,26 @@
-
+{
+  "appId": "maxperformance",
+  "appName": "MaxPerformance",
+  "localStorageNamespace": "MXP",
+  "apiBaseUrl": "https://api.maxie-apps.online",
+  "uploadPath": "/api/client-report",
+  "configVersion": 1,
+  "latestVersion": "1.0.0",
+  "downloadPageUrl": "https://maxie-apps.online/#/maxperformance",
+  "downloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.0/MaxPerformance.1.0.0.zip",
+  "releaseHashes": {
+    "1.0.0": {
+      "exeSha256": "9ed8ad5fc2dab1f973fea9c6948f90c7f139ab83d55b7b401eac489d53b27974",
+      "zipSha256": "2d112443eb48e61a6b382e73a1699b7ce2dc33a70811c32308abadce553b9326"
+    }
+  },
+  "publicDownloadMirrors": [
+    {
+      "name": "Backblaze",
+      "url": "https://backblaze.maxie-apps.online/maxperformance/Release/1.0.0/MaxPerformance.1.0.0.zip",
+      "version": "1.0.0",
+      "zipSha256": "2d112443eb48e61a6b382e73a1699b7ce2dc33a70811c32308abadce553b9326"
+    }
+  ],
+  "signature": "saU194fflDu1wCyRQYi1VE04TqAolb7wOj4NuHQt26jIhFXAL0y4xNTGRRPgbuKgb8q0v9zLqVWmJ0BgYijA5uitROWwpAXKMAqWv5Y2vfos+y51GPeFN0FVPy23GHlQXHJTdHuDsMfEGlOJzXJJA/7pJQdhOU+Jmb7ctWn8dxRmkvLTu0CYYU93uRNL1BG/iFt7dRdbD/9t7+dcbn2VVY67B96Vr2gmEtlFCtviZ0nieoJ8xEAscekyvd/PLtUw2pWmHdQgrBzgJq+FAr4MlrdovoXj/kWvr+bneoYlCS8VDfBRjVs0IxnNKHT+eA64agR49tUg3kh89Exook/cXg=="
+}
