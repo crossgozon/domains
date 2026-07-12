@@ -7,7 +7,7 @@
   "configVersion": 1,
   "latestVersion": "1.0.0",
   "downloadPageUrl": "https://maxie-apps.online/#/maxperformance",
-  "downloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.0/MaxPerformance.1.0.0.zip",
+  "downloadUrl": "https://github.com/crossgozon/maxperformance-download/releases/download/v1.0.0/MaxPerformance.1.0.0.zip",
   "releaseHashes": {
     "1.0.0": {
       "exeSha256": "9ed8ad5fc2dab1f973fea9c6948f90c7f139ab83d55b7b401eac489d53b27974",
@@ -22,5 +22,5 @@
       "zipSha256": "2d112443eb48e61a6b382e73a1699b7ce2dc33a70811c32308abadce553b9326"
     }
   ],
-  "signature": "saU194fflDu1wCyRQYi1VE04TqAolb7wOj4NuHQt26jIhFXAL0y4xNTGRRPgbuKgb8q0v9zLqVWmJ0BgYijA5uitROWwpAXKMAqWv5Y2vfos+y51GPeFN0FVPy23GHlQXHJTdHuDsMfEGlOJzXJJA/7pJQdhOU+Jmb7ctWn8dxRmkvLTu0CYYU93uRNL1BG/iFt7dRdbD/9t7+dcbn2VVY67B96Vr2gmEtlFCtviZ0nieoJ8xEAscekyvd/PLtUw2pWmHdQgrBzgJq+FAr4MlrdovoXj/kWvr+bneoYlCS8VDfBRjVs0IxnNKHT+eA64agR49tUg3kh89Exook/cXg=="
+  "signature": "nVSGelIZWSTc5jMyDaNZUTFcT0rADcAsyExaSCV4wVhY2Ad8lKx6SlVa2tKqmE5Z1nxwFnRJ/4NdMEA7/HA4GvX0liDp8iWH9YnhBNJqFFymOxCyqtX4VlrXr9IUf8UkrGyC51jbaFzIPfrDNTHwohrtZ8PM35WvsbO3e00DMF7Gs4iV3ujVFlPFxaWL9SZYBksj0PRjTBBZweIdDC7b58Nc51dxhUc/DMUlnJ9NGQq9qsoDiEeAUs6qQ0Jt6+gbJ5farrenf5cwVNQf7LBWXVzjCfZDJ2Eajfs6HGETki4AgrMFbrZXtH8OOxyICc8nB8fmHX9nweS3CyJv4OZGKg=="
 }
