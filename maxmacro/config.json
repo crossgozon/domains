@@ -5,7 +5,7 @@
   "apiBaseUrl": "https://api.maxmacro.maxie-apps.online",
   "uploadPath": "/api/client-report",
   "configVersion": 1,
-  "latestVersion": "0.1.0-beta",
+  "latestVersion": "1.0.0",
   "downloadPageUrl": "https://maxmacro.download.maxie-apps.online/",
   "downloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v1.0.0/Maxmacro.1.0.0.zip",
   "updaterDownloadUrl": "https://github.com/crossgozon/maxmacro-download/releases/download/v1.0.0/MaxmacroUpdater.1.0.0.zip",
@@ -71,5 +71,5 @@
       "zipSha256": "ce646b15ffd85dbfd19864068d5e28aebdfb8eb701088d7267a06339f3a056c5"
     }
   ],
-  "signature": "GqAuDdRGF03yM+5hjDFTb7xJQD6Oo6m3zKOC83QofoLHKqkL6KMsWzCjwEw3qOtCAb5FF7smNm2ILtfxlxw1e00whQ9lJcY393hTqlDas4BMxGVEsJIELNu3Cw88n9uEoVFFQRNtTLMxgHXXSUSwUXWYHHptK25rXUzslDXe9GosubjzME+gCW1lAyjeBuDcgsaECvgg4nVDGQB/mrdAJTjinLVsrjCM04ZRklbDMSwnt9pkLMepeDqDBjbzb0Viib159hOKCKo+JrW3/+Cd08DWO1cF/JgLrRJptGICVJs4+5cj/CVmpFRPzyLiwKW7MgiK1HcXxyv+1k38wv+o1A=="
+  "signature": "NOM2iQ/RF8eE1myYWCe4xaG9whbNbpS5oIEu2o+CCyMTvUWg97QeIHq/S/QFp5zOeQ+xJCgFjM5eEZ9fSrQZhECL1GrWZc+5+Xc9Y8OlUT8tgEx/NZn49y1yAz16NUIQDSh/WlRtnK+vWTfPz23EqOs3nNP2k1D60OWXN0DQTXvLG/n1YGk8addtWuJd9LEegDxMa9bKHnHcCtQJpjRKpUXFlvyfpoo15UT5WKSuDII6CRulIR8VhUaMV4Sqvuef/GCCgwmRF3APjHq/xuKXagZWabSBboLJDvC2ZzL88qoyQKHD7MCPvjbgSxLbBtk85N7pMpT6sKnA3Cqy5mRt+Q=="
 }
