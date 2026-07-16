@@ -11,8 +11,8 @@
   "updaterDownloadUrl": "https://github.com/crossgozon/maxclicker-download/releases/download/v1.0.1/MaxclickerUpdater.1.0.1.zip",
   "releaseHashes": {
     "1.0.1": {
-      "exeSha256": "4ac02963e1b28a410d33404a46b9eb04ddef61e7af9858db878c293812c13219",
-      "zipSha256": "8e108ee29aa84ec78323c2e348df112050bb92280a49cc80cda6d0319924f431"
+      "exeSha256": "657cf4657c70922b5ea3089957f4045ee042140f0c9241ee1ae10b7d2f272ca4",
+      "zipSha256": "4ddc5823bcb9eca4b68c69ddd5b139bef390eaab46fd06f61e88b9a00014894e"
     }
   },
   "updaterSha256": "99869755857af0f3891f1da700b3662e948d5e3143eb3a693cf9b9e6a5c9a23f",
@@ -33,5 +33,5 @@
       "zipSha256": "28731e9b622531ae07c01caecc6a5f932921fbd3af0721fef78c02d73055e7d1"
     }
   ],
-  "signature": "pbn+MWxfKK4pJwF4Bn7O+ruuCS2qXNV0nuAN6lFqzFa4NU5IkVRvLBG0CPj2Igx8+G5CoKUHxgAnrr8l3OpGm7rAKD/G8LlAc6kEWEBtSUpmEtXa9BfwvrVPuJUUTheX3nzsXffGHpvLetIeFmwU+AFTbg6G41w2js44yTWBLEsA2op5iKLei8VbxaAdH2MbLMokF00BY7WdEi37SsaeTywDex/JkBy7yTrN2Q9+zoe0WZhbDpTirdiThQlHAY4Q3MDC/tkrazV3KObcP0/GBej6FYUrGN2AAje/ys4s+pWNCCSaRKyVQsJYFzAVBcNdVifCnX+vdMWywoWSAXSpTg=="
+  "signature": "bNfNhzF0zcXJXBp5wLP/jkUymP7HbxpTZU1fMFZo7IcFqcIF6tCbZNtpdpHEAXjpS6fyeUJZscED4sGH2JEynzKHXJjQaF4sQZFUE7wpewpCr4OpphRe3yAwwWF/nPHpJaLbcmM2GtgVYFbGaWhGrT9scxaEMn5M1zCoNhrrbZ0QxMFH9DFWik14c/t161K+n71gl3EzyVvHkBMzJMI4TFdcuPS5fNPoIetpXweM5OLDp8SHQ3q25RYqJpEjQnHYK0Bd99j1i/UJXMclAvP20HLfrp1ByvOXu/ala+qbPmhEppQs5uL9LhkKcn+ZAQIA+9n1vxDcj3S2ut3e1GGjGg=="
 }
