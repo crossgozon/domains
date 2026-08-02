@@ -10,8 +10,8 @@
   "downloadUrl": "https://github.com/crossgozon/maxperformance-download/releases/download/v1.0.0/MaxPerformance.1.0.0.zip",
   "releaseHashes": {
     "1.0.0": {
-      "exeSha256": "9ed8ad5fc2dab1f973fea9c6948f90c7f139ab83d55b7b401eac489d53b27974",
-      "zipSha256": "2d112443eb48e61a6b382e73a1699b7ce2dc33a70811c32308abadce553b9326"
+      "exeSha256": "412e2ddcc2d9f88d4a6be601f83d4e582da0d369d64a4a9c419c06951c5028db",
+      "zipSha256": "6ec980aaafa566a3b29a81514ae7ed1ac2e357e9f103618115d73886270ae9d3"
     }
   },
   "publicDownloadMirrors": [
@@ -19,8 +19,8 @@
       "name": "Backblaze",
       "url": "https://backblaze.maxie-apps.online/maxperformance/Release/1.0.0/MaxPerformance.1.0.0.zip",
       "version": "1.0.0",
-      "zipSha256": "2d112443eb48e61a6b382e73a1699b7ce2dc33a70811c32308abadce553b9326"
+      "zipSha256": "6ec980aaafa566a3b29a81514ae7ed1ac2e357e9f103618115d73886270ae9d3"
     }
   ],
-  "signature": "nVSGelIZWSTc5jMyDaNZUTFcT0rADcAsyExaSCV4wVhY2Ad8lKx6SlVa2tKqmE5Z1nxwFnRJ/4NdMEA7/HA4GvX0liDp8iWH9YnhBNJqFFymOxCyqtX4VlrXr9IUf8UkrGyC51jbaFzIPfrDNTHwohrtZ8PM35WvsbO3e00DMF7Gs4iV3ujVFlPFxaWL9SZYBksj0PRjTBBZweIdDC7b58Nc51dxhUc/DMUlnJ9NGQq9qsoDiEeAUs6qQ0Jt6+gbJ5farrenf5cwVNQf7LBWXVzjCfZDJ2Eajfs6HGETki4AgrMFbrZXtH8OOxyICc8nB8fmHX9nweS3CyJv4OZGKg=="
+  "signature": "cInTtNecOFWXQivr9c1Zm6AJBAQaQuTESW5yl/MdN38lLRsm6U0H9Z6rG6S/B9O0v72aI4aCqoUdOHwwsoAqNdgwASwuwz904BjzxCRsRy+frU5oqq9xw3zJkvVDhiQOVAcvWBIB8fM6QZz4e79UTsACa1Ih+9QcptfIwti82SVYzfC+TqLKSQa49Q+rA9ohiOvNBavJGK6trUMMPgv3u7OHGLZ/zpZ0T0Gz5ZYGz2SbRDG2XNmPffGm61WtvMBu91QTCppzAYXASHh9Pg91NW6CBx6h6W1z//y7P0lakWk+FwMVNBwPsGbW4GZQQ8siw0T5PRGtIyAgwpnUwwhgcQ=="
 }
